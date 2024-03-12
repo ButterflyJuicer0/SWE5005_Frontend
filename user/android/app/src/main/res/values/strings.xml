@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">goldenAndroid</string>
+    <string name="title_activity_main">goldenAndroid</string>
+    <string name="package_name">com.android.golden</string>
+    <string name="custom_url_scheme">com.android.golden</string>
+</resources>

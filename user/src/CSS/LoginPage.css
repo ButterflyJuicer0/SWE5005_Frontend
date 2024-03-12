@@ -1,0 +1,17 @@
+.loginButton{
+    color: white;
+
+
+}
+.loginContainer{
+    border-radius: 5px;
+
+    min-width: fit-content;
+
+}
+.loginPage{
+    min-height: 90vh;
+    background-image: url("../assets/images/gallery/02.jpg");
+
+
+}

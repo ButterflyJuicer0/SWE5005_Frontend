@@ -1,0 +1,11 @@
+.homePage{
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("../assets/images/gallery/04.jpg");
+    min-height: 90vh;
+    margin:auto ;
+    min-width: fit-content;
+}
+
